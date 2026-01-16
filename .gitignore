@@ -1,0 +1,23 @@
+# Python environments
+.venv/
+venv/
+env/
+06_env/
+
+# Logs and outputs
+04_logs/
+
+# Model checkpoints / large files
+03_models/
+
+# OS / editor files
+.DS_Store
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.log
